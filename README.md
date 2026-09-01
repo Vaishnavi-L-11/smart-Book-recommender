@@ -1,5 +1,3 @@
-Yes — here is a **simple, clear, and complete README** with all the sections you requested.
-
 # 📚 Book Buddy
 
 ## Project Overview
